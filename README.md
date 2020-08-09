@@ -1,7 +1,5 @@
 # Quote Generator
 
----
-
 ## Competencies
 
 1. Fetch Requests
